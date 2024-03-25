@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Registration Form</title>
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="back">
+      <div class="wrapper">
+        <h1>Registration Form</h1>
+        <form action="http://localhost:8000/register" method="POST">
+          <div class="name common-style">
+            <input
+              type="text"
+              placeholder="Enter Your name"
+              class="input-box"
+              name="name"
+            />
+            <i class="bx bxs-user"></i>
+          </div>
+          <div class="email common-style">
+            <input
+              type="text"
+              placeholder="Email"
+              class="input-box"
+              name="email"
+            />
+            <i class="bx bx-envelope"></i>
+          </div>
+          <div class="password common-style">
+            <input
+              type="password"
+              placeholder="password"
+              class="input-box"
+              name="password"
+            />
+            <i class="bx bxs-lock-alt"></i>
+          </div>
+          <div class="forgot-remember">
+            <a href="#">Forgot Password</a>
+            <label>
+              <input type="checkbox" />
+              Remember me
+            </label>
+          </div>
+          <div class="submit-btn">
+            <button type="submit">Register</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
