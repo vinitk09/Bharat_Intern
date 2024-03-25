@@ -13,7 +13,7 @@ This is a registartion form created with the help of html, css, Node.js, Mongodb
 1. Clone the repository:
    git clone [https://github.com/your-username/registration-form.git](https://github.com/vinitk09/Bharat_Intern.git)
 
-2. Enter inside the Directory
+2. Enter inside the Directory :
    cd Registration_Form
    
 3. Install dependencies:
@@ -37,7 +37,7 @@ This project is a blog website created using HTML, CSS, Node.js, and Express.js.
 1. Clone the repository:
    git clone [https://github.com/your-username/blog-website.git](https://github.com/vinitk09/Bharat_Intern.git)
    
-2. Enter inside the Directory
+2. Enter inside the Directory :
    cd Blog
    
 3. Install dependencies:
