@@ -1,4 +1,4 @@
----------------------------------------------------------------------------------------- Task 1 --------------------------------------------------------------------------------------------------------------
+-------- Task 1 -------
 ## Registration Form
 
 This is a registartion form created with the help of html, css, Node.js, Mongodb which basically stores the information of the user in the mongodb as the users click on the register button.  
@@ -22,7 +22,7 @@ This is a registartion form created with the help of html, css, Node.js, Mongodb
 4. Run the application:
    npm start
 
-   -------------------------------------------------------------------------------------  Task 2 --------------------------------------------------------------------------------------------------
+  -------- Task 2 -------
 
 ## Blog Website
 
